@@ -3,7 +3,7 @@
  *
  * Created on 06.08.2017
  * @Author Pawan Dharade
- * Copyright (c) 2017 SEEBURGER AG, Germany. All Rights Reserved.
+ * 
  */
 
 import java.io.File;
